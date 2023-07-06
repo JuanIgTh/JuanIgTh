@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://drive.google.com/uc?export=view&id=1c2N6gsxPWfHMWRQlpwOSwCR-yWQ8xJ9g" width="190"/>
 </div>
+<div id="badges">
+  <a href="https://www.youtube.com/channel/UClV46jwgq0DXcvDHXHQQ2Ig">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
 <hr>
 
 ### Hello there! 👋 
