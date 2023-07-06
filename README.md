@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://drive.google.com/file/d/1zHqiBAoojH5Kn9Ru57hZlty3Z-Wkhspl/view](https://drive.google.com/file/d/1zHqiBAoojH5Kn9Ru57hZlty3Z-Wkhspl/view)" width="100"/>
+  <img src="https://drive.google.com/uc?export=view&id=1zHqiBAoojH5Kn9Ru57hZlty3Z-Wkhspl" width="100"/>
 </div>
 
 ### Hello there! 👋
