@@ -11,7 +11,7 @@
 
   <br> 
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
   
   <br>
   
@@ -25,7 +25,7 @@
   
   Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer 👨‍💻.
    
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <hr>
     
   <br>
   
@@ -53,7 +53,7 @@
   
 ### Languages and Tools:  
 
-  <br>
+ <br>
   
  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
