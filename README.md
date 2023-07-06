@@ -6,15 +6,19 @@
   <a href="https://www.youtube.com/channel/UClV46jwgq0DXcvDHXHQQ2Ig">
     <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" alt="Youtube Badge" width="60"/>
   </a>&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/__knightmare/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" alt="Youtube Badge" width="65"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" alt="Youtube Badge" width="60"/>
   </a>&nbsp;&nbsp;
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-</div>
+  <br>
   
-<div align='center' >
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
+
+  
+<div align='center'>
+  
 ### Hello there! 👋 
 
 Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer 👨‍💻.
