@@ -3,13 +3,13 @@
 </div>
 <div id="badges">
   <a href="https://www.youtube.com/channel/UClV46jwgq0DXcvDHXHQQ2Ig">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="Youtube Badge"/>
   </a>
 <hr>
 
 ### Hello there! 👋 
 
-Hi! My name is Juan Thomas, better known as 'Knightmare', begginer web developer, illustrator and dreamer.
+Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer.
 
 - 🔭 Currently working on www.webnrepair.com and www.miradosporelabismo.com.
 
