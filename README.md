@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://drive.google.com/uc?export=view&id=1c2N6gsxPWfHMWRQlpwOSwCR-yWQ8xJ9g" width="190"/>
 </div>
-<div id="badges">
+<div id="badges"  align='center'>
   <a href="https://www.youtube.com/channel/UClV46jwgq0DXcvDHXHQQ2Ig">
     <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" alt="Youtube Badge" width="65"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/__knightmare/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" alt="Youtube Badge" width="65"/>
-  </a>  
+  </a>&nbsp;&nbsp;
 <hr>
 
 ### Hello there! 👋 
