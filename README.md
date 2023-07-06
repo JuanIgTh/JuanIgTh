@@ -3,7 +3,7 @@
 </div>
 <div id="badges"  align='center'>
   <a href="https://www.youtube.com/channel/UClV46jwgq0DXcvDHXHQQ2Ig">
-    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" alt="Youtube Badge" width="65"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" alt="Youtube Badge" width="60"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/__knightmare/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" alt="Youtube Badge" width="65"/>
@@ -12,7 +12,7 @@
 
 ### Hello there! 👋 
 
-Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer.
+Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer 👨‍💻.
 
 🔭 Currently working on www.webnrepair.com and www.miradosporelabismo.com.
 
