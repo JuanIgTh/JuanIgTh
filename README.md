@@ -9,7 +9,9 @@
   <a href="https://www.instagram.com/__knightmare/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" alt="Youtube Badge" width="65"/>
   </a>&nbsp;&nbsp;
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 </div>
   
 <div align='center' >
