@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://drive.google.com/uc?export=view&id=1c2N6gsxPWfHMWRQlpwOSwCR-yWQ8xJ9g" width="190"/>
 </div>
-<div id="badges"  align='center'>
+<div id="badges"  align='center' justify-content='center'>
   <img src="https://drive.google.com/uc?export=view&id=1c2N6gsxPWfHMWRQlpwOSwCR-yWQ8xJ9g" width="190"/>
   <a href="https://www.youtube.com/channel/UClV46jwgq0DXcvDHXHQQ2Ig">
     <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" alt="Youtube Badge" width="60"/>
