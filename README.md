@@ -14,7 +14,7 @@
 
 Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer.
 
-- 🔭 Currently working on www.webnrepair.com and www.miradosporelabismo.com.
+🔭 Currently working on www.webnrepair.com and www.miradosporelabismo.com.
 
 <hr>
 
