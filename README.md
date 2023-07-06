@@ -10,7 +10,9 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png" alt="Youtube Badge" width="65"/>
   </a>&nbsp;&nbsp;
 <hr>
-
+</div>
+  
+<div id="badges"  align='center' >
 ### Hello there! 👋 
 
 Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer 👨‍💻.
