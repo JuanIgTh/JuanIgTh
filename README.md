@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://www.youtube.com/channel/UClV46jwgq0DXcvDHXHQQ2Ig">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="Youtube Badge"/>
+    <img src="https://www.freeiconspng.com/img/46026" alt="Youtube Badge"/>
   </a>
 <hr>
 
