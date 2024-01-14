@@ -39,7 +39,7 @@
   
   🌱 I’m currently learning React, Laravel, etc.
   
-  💬 Ask me about **mySQL or PHP**
+  💬 Ask me about **React or PHP**
   
   📫 How to reach me: **jit9rex@gmail.com**
  
