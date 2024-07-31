@@ -22,7 +22,7 @@
   
   ### Hello there! 👋 
   
-  Hi! My name is Juan Thomas, better known as 'Knightmare', beginner web developer, illustrator and dreamer 👨‍💻.
+  Hi! My name is Juan Thomas, better known as 'Knightmare', junior FullStack developer, illustrator and dreamer 👨‍💻.
    
  <hr>
     
@@ -33,13 +33,13 @@
   <div align="left">
   <br>
     
-  🔭 Currently working on www.webnrepair.com and www.miradosporelabismo.com.
+  🔭 Currently working on www.webnrepair.com
   
   🤝 I’m available for freelancing.
   
   🌱 I’m currently learning React, Laravel, etc.
   
-  💬 Ask me about **React or PHP**
+  💬 Ask me about **React or Python**
   
   📫 How to reach me: **jit9rex@gmail.com**
  
@@ -57,9 +57,9 @@
  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind" alt="CSS" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="HTML" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="HTML" width="50" height="50"/>&nbsp;
   </div>
 </div>
