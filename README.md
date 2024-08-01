@@ -29,7 +29,7 @@
   <div align="left">
   <br>
     
-  🔭 Currently working as FullStack Dev on Adalmo SL
+  🔭 Currently working as FullStack Dev at Adalmo SL
   
   🤝 I’m available for freelancing.
   
