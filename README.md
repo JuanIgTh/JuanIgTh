@@ -33,13 +33,13 @@
   <div align="left">
   <br>
     
-  🔭 Currently working on www.webnrepair.com
+  🔭 Currently working as FullStack Dev on Adalmo SL
   
   🤝 I’m available for freelancing.
   
-  🌱 I’m currently learning React, Laravel, etc.
+  🌱 I’m currently learning AI Development and React Native
   
-  💬 Ask me about **React or Python**
+  💬 Ask me about **React, Python or Databases**
   
   📫 How to reach me: **jit9rex@gmail.com**
  
