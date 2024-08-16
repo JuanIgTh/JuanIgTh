@@ -18,7 +18,7 @@
   
   ### Hello there! 👋 
   
-  Hi! My name is Juan Thomas, better known as 'Knightmare', junior FullStack developer, illustrator and dreamer 👨‍💻.
+  Hi! My name is Juan Thomas, better known as 'Knightmare', junior FullStack developer, and Co-founder of BaleaTech.com 👨‍💻.
    
  <hr>
     
