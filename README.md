@@ -28,7 +28,7 @@
     
   🔭 Currently working as FullStack Dev at Adalmo SL
 
-  📱 I managed a whole mobile proyect (**FichaFlex Mobile**) available on Play Store
+  📱 I managed an entire mobile project. (**FichaFlex Mobile**) available on Play Store
   
   🤝 I’m available for freelancing.
   
