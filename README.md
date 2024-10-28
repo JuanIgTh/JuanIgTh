@@ -41,9 +41,9 @@
   </div>
 
 </div>
-
-<div align='center'>
 <hr>
+<div align='center'>
+
   
 ### Languages and Tools:  
 
